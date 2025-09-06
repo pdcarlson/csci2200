@@ -1,0 +1,4 @@
+Odd numbers
+Give the iPhone to Charlie ( C ) in the example on the board. C has the most single friends.
+There would be 4 different combinations of of p, q in the truth table
+F, T, T, T
