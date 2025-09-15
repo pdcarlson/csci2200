@@ -1,0 +1,1 @@
+First step when starting a proof by contradiction is to assume the opposite of the original statement is true.
